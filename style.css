@@ -1,0 +1,59 @@
+ img
+ {
+    margin-left: 35%;
+    margin-top: 1%;
+ }
+
+ nav
+{
+    margin-top: 1%;
+}
+
+.card 
+{
+    margin-top: 5%;
+    font-size: 15px;
+    
+    
+}
+.card >:hover{
+    opacity: 0.9;
+    transform: scale(0.98);
+}
+.card img
+{
+    width: 80%;
+}
+.card div img
+{
+    width: 100%;
+    margin-right: 80%;
+}
+.foot
+{
+    margin-top: 15%;
+}
+.carousel
+{
+    margin-top: 15%;
+}
+.div img
+{
+    margin-right: 50%;
+}
+.foot img
+{
+    margin-left: 45%;
+}
+.foot h2
+{
+    color: white;
+    margin-left: 20px;
+}
+.foot h3
+{
+    color: white;
+    margin-left:20px ;
+}
+
+
